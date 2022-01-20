@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+}
+.top{
+  background-color: green;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+}
+.sticky{
+  position: sticky;
+  background-color: red;
+  margin-top: 40px;
+  top: 30px;
+  left: 0;
+}
